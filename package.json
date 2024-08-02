@@ -8,5 +8,8 @@
     "start": "node server.js"
   },
   "author": "paul fidelis",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
