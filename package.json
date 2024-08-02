@@ -1,0 +1,12 @@
+{
+  "name": "wxyz",
+  "version": "1.0.0",
+  "description": "just my page url",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "paul fidelis",
+  "license": "MIT"
+}
